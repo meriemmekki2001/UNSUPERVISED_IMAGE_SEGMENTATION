@@ -1,0 +1,14 @@
+data/**/*.npy
+data/**/*.npz
+data/**/*.csv
+data/**/*.pt
+data/**/*.pth
+data/**/*.jpg
+data/**/*.png
+notebooks/test.ipynb
+notebooks/dino_deitsmall8_pretrain_full_checkpoint.pth
+notebooks/model.pt
+**/.ipynb_checkpoints/*
+**/__pycache__/*
+/venv
+
